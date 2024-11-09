@@ -1,0 +1,17 @@
+# General Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Flask Specific
+instance/
+*.log
+static/uploads/
+
+# Development Tools
+.idea/
+.vscode/
+*.swp
+*.DS_Store

@@ -1,0 +1,3 @@
+KEY=EjjkKgDhBqkjLuzleDziEZs9cqQjwaJlgVZ1VAzJRvDbttGCcUjTJQQJ99AKAC8vTInXJ3w3AAAbACOGfIak
+ENDPOINT=https://api.cognitive.microsofttranslator.com/
+LOCATION=westus2
